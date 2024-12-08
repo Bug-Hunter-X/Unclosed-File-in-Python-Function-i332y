@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: failing to close a file after opening it.  The `bug.py` file shows the problematic code, while `bugSolution.py` provides a corrected version. This demonstrates the importance of proper resource management in Python to avoid resource leaks and potential exceptions.
